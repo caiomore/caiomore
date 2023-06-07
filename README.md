@@ -2,7 +2,7 @@
 
 👨‍💻 Workaholic<br>
 📚 Paixão: Ler, aprender, programar e ensinar<br>
-🚀 Team Alura | Cursando ADS IMPACTA
+🚀 Prof. Alura | Cursando ADS IMPACTA
 
 [![Blog](https://img.shields.io/website?label=Meu-Portfólio&style=for-the-badge&url=https://caiomoreira.com/)](https://caiomoreira.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caio.macenaa/)
@@ -33,4 +33,4 @@
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
 
-Hoje, estudo e atuo como desenvolvedor front-end, visando fullstack Javascript!
+Hoje, estudo e atuo como desenvolvedor front-end, visando fullstack Javascript. Porém sou flexível e de rápida adaptação em mudanças de projeto!
