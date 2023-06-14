@@ -32,5 +32,3 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
-
-Hoje, estudo e atuo como desenvolvedor front-end, visando fullstack Javascript. Porém sou flexível e de rápida adaptação em mudanças de projeto!
