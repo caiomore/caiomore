@@ -4,7 +4,7 @@
 📚 Paixão: Ler, aprender, programar e ensinar<br>
 🚀 Prof. Alura | Cursando ADS IMPACTA
 
-[![Blog](https://img.shields.io/website?label=Meu-Portfólio&style=for-the-badge&url=https://caiomoreira.com/)](https://caiomoreira.com)
+[![Blog](https://img.shields.io/website?label=Meu-Portfólio&style=for-the-badge&url=https://portfolio-oficial-vsk8.vercel.app/)](https://portfolio-oficial-vsk8.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caio.macenaa/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiomoreiraa/)
 
